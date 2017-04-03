@@ -1,6 +1,6 @@
-# dhis2OrgUnitsFromCouchDB-MG
+# dhis2OrgUnits
 
-## Initially will make it possible to export from couchDB to json/xml 
+## Initially will make it possible to export from couchDB/mysql to json/xml 
 however that implies creating couchDB shows and views to insert data beforehand
 
 
